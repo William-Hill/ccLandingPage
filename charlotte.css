@@ -1,5 +1,5 @@
   .layout-transparent {
-  background: url('./VCP_0159pxlEdit.jpg') center / cover;
+  background: url('./IMG_0934.JPG') center / cover;
 }
 .layout-transparent .mdl-layout__header,
 .layout-transparent .mdl-layout__drawer-button {
@@ -21,4 +21,19 @@ div.transbox p
   margin: 5%;
   font-weight: bold;
   color: #000000;
+}
+
+#namePlate{
+	text-shadow: 2px 2px #000000;
+	font-size: 42px;
+	letter-spacing: 0.06em;
+}
+
+#comingSoon{
+	align-self: center;
+	height: 50%;
+	text-shadow: 2px 2px #000000;
+	font-size: 24px;
+	color: white;
+	padding-left: 80px;
 }
